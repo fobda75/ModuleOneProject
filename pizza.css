@@ -1,0 +1,34 @@
+body {
+    padding: 25px;
+    background-color: blanchedalmond;
+}
+
+#mottoImg {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.tab-pane {
+    padding: 10px;
+}
+
+.correction {
+    color: red;
+}
+
+.tab1 {
+    background-color: red;
+}
+
+.tab2 {
+    background-color: yellow;
+}
+
+.tab3 {
+    background-color: green;
+    color: aliceblue;
+}
